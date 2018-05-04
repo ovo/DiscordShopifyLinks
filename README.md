@@ -6,6 +6,9 @@ Node js
 
 ### Setup
 Go to https://discordapp.com/developers/applications/me and create a new app
+
+
+
 Create a new bot user and copy the token
 Create OAuth2 url and invite it to your server (give it admin permission)
 Edit the config.json file and paste your token in the token section
