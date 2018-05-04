@@ -1,10 +1,10 @@
 # DiscordShopifyLinks
 Generate checkout links for shopify sites using discord
 
-### Requirements:
+## Requirements:
 Node js
 
-### Setup
+## Setup
 Go to https://discordapp.com/developers/applications/me and create a new app
 
 
